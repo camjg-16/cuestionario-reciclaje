@@ -1,0 +1,53 @@
+---
+title: 'Tarea 1: Cuestionario'
+author: "Camila Jiménez Gómez"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme:
+      bg: "#121212"
+      fg: "#E4E4E4"
+      base_font:
+        google: "Prompt"
+
+---
+
+# Prácticas de Reciclaje en el Hogar y Conciencia Familiar sobre el Medio Ambiente
+
+
+## Introducción
+
+El presente cuestionario tiene como propósito conocer los hábitos de reciclaje que se realizan en el hogar, así como identificar los materiales más comúnmente reciclados y el destino que se les da.
+
+Este estudio es importante porque permitirá obtener información clave para fomentar la conciencia ambiental y diseñar estrategias educativas que promuevan una cultura de reciclaje más sólida en la comunidad.
+
+
+### Instrucciones para los participantes: 
+
+Lea con atención cada pregunta antes de responder.
+
+Seleccione la opción que mejor refleje su experiencia o situación.
+
+Sus respuestas son anónimas y confidenciales, y únicamente se utilizarán con fines académicos
+
+
+## Población Meta 
+
+**Características demográficas**: Personas mayores de 15 años que vivan en hogares urbanos o semiurbanos.
+
+**Criterios de inclusión:** Hogares que realicen o no prácticas de reciclaje en su vida cotidiana.
+
+**Criterios de exclusión:** Personas que no residan en un hogar estable o que no participen en la gestión de residuos en su vivienda.
+
+**Tamaño estimado de la población:** Se espera alcanzar entre 10 y 20 participantes para efectos de este estudio académico.
+
+
+## Objetivo Genera
+
+Identificar los hábitos de reciclaje en el hogar, los materiales más comunes que se reciclan y el nivel de conciencia familiar respecto a la importancia del reciclaje.
+
+
+### Enlace de la encuesta
+https://docs.google.com/forms/d/e/1FAIpQLSeXqjEzWVM1EJdDBpkZWblhKzwq_tBSgy3ld7TT6q36cZxFRg/viewform?usp=header 
